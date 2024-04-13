@@ -1,148 +1,90 @@
 {
   "setup": {
-      "city": "pattay",
-      "delay": 10
+    "city": "Bien Hoa",
+    "delay": 4.7
   },
-"config": {
-  "options": {
-    "watch-url": ["https://youtu.be/Sb2KvdNgKQc?si=OeWKsMIEnYgNNGQU"],
-    "timestamp": "{end:1719680400}"
+  "config": {
+    "options": {
+      "watch-url": ["https://www.youtube.com/watch?v=G7qhXHPeeGA"],
+      "timestamp": "{start}"
+    },
+    "text-1": [
+        "{NF4(「{hour:1} : {min:1}」 ♰ 「{th=date} / {th=month:1} / {en=year:2}」)}"
+    ],
+    "text-2": [
+        "-/ роговой § ;",
+        "- Люцифер топ $ ;",
+        "-/ Фоксик # z ;",
+        "` o/n hr # ;",
+        "- ZasenSexhod $ ;",
+        "-/ Флегматик $ ;",
+        "- anmpuré # kon ;",
+        "`sng ; luv"
+    ],
+    "text-3": [
+        "{NF4(🌡️ {temp:c}  °𝐂ㅤ⋆ㅤ🍃 {wind:kph})}  𝐦/𝐬"
+    ],
+    "bigimg": [
+        "https://i.ibb.co/kBWCcxf/black-clover-black-clover-movie.gif",
+        "https://i.ibb.co/Zg30JB8/kakashi-obito.gif",
+        "https://i.ibb.co/h23P4mH/88f30209bc5e9862b33c296c8e77a22b.gif",
+        "https://i.ibb.co/Dt4tyDy/4a82e2e8a4eba10dd66b40a21c1e43e1.gif",
+        "https://i.ibb.co/cXXXktj/51e42d52a141365ed1d55580f3b1c60f.gif",
+        "https://i.ibb.co/S6sK6q2/603cf28abc715b82e22b4943b3383de2.gif",
+        "https://i.ibb.co/Z8hXCJY/6d450c1497b2cda38f30a427848f11a3.gif",
+        "https://i.ibb.co/Jc9kS8Z/7dce98ac902442a7f17f0a270148bc13.gif",
+        "https://i.ibb.co/Y74psVb/3370f83c71c11e4d28e5388190819dee.gif",
+        "https://i.ibb.co/bKGBcFN/491e98a2c3e81f3efb34db8f9e4c62a8.gif",
+        "https://i.ibb.co/rmz1wt4/5d2c44694918947aede42306cb7154d0.gif",
+        "https://i.ibb.co/SsF25LS/b7b2df7afe07585c8fef27a21d279d92717f8404-hq.gif",
+        "https://i.ibb.co/dr6X1mD/dbef8931f8361d7df8c3f078b6055f36.gif",
+        "https://i.ibb.co/t8rvJhL/ad28f282030ac10304b2253f3cbc7b11.gif",
+        "https://i.ibb.co/PwHSdK4/0c75c23a7d8293f6ed00761063bb932d.gif",
+        "https://i.ibb.co/ZMM96Hz/2205a7765048928a23040380feafabee.gif",
+        "https://i.ibb.co/G5fsHtX/62ca321f6634ca858cf7ae81cfcb71a3.gif",
+        "https://i.ibb.co/G3ZXZCB/4e4690fdda546b5314cd3ba6df7444ff.gif",
+        "https://i.ibb.co/J7nMMbM/a366299efb2171ea09cd5504ddb31e85.gif",
+        "https://i.ibb.co/P5sH4St/b3dabc47f66ffd2d4830f5a3e440e5f1.gif"
+    ],
+    "smallimg": [
+      "https://i.ibb.co/0h51ZGK/hotwheels.gif",
+      "https://i.ibb.co/3C9LJjf/47ed4b3d8e04bfd1bbde56b7f1d349e1.gif",
+      "https://i.ibb.co/9tsNZqZ/9b5823d7f5f28ddbd26a6dfb7b50f4b1.gif",
+      "https://i.ibb.co/VTjnzCL/92781de43b95427b1bc57579ddc5843a.gif",
+      "https://i.ibb.co/BrBKZjL/logo-chrome-300x300.gif" ,
+      "https://i.ibb.co/BCL5k5T/IMG-8868.gif",
+      "https://i.ibb.co/5rYV9kB/IMG-8869.gif"
+    ],
+    "button-1": [
+        {
+        "name": "` случайность $ ;",
+        "url": "https://www.facebook.com/wz.sollyx"
       },
-      "text-1": [
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({en=date})} / {NF6({en=month:3})} / {NF6({en=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({th=date})} / {NF6({th=month:3})} / {NF6({th=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({en=date})} / {NF6({en=month:3})} / {NF6({en=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({th=date})} / {NF6({th=month:3})} / {NF6({th=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({en=date})} / {NF6({en=month:3})} / {NF6({en=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({th=date})} / {NF6({th=month:3})} / {NF6({th=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({en=date})} / {NF6({en=month:3})} / {NF6({en=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({th=date})} / {NF6({th=month:3})} / {NF6({th=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({en=date})} / {NF6({en=month:3})} / {NF6({en=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({th=date})} / {NF6({th=month:3})} / {NF6({th=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({en=date})} / {NF6({en=month:3})} / {NF6({en=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({th=date})} / {NF6({th=month:3})} / {NF6({th=year:2})} 】 ",
-          "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({en=date})} / {NF6({en=month:3})} / {NF6({en=year:2})} 】 "
-      ],
-      "text-2": [
-          "{NF6(【 1 / 16 】)} 👥 ᴜꜱᴇʀɴᴀᴍᴇ : 🗂️ {user:name} ",
-          "{NF6(【 2 / 16 】)} 📄 ᴘᴀᴛᴄʜ ꜱᴛᴇᴀᴍɪɴɢ ʀᴘᴄ : 📄 {NF6({patch})} ",
-          "{NF6(【 3 / 16 】)} 📈 ᴜᴘᴛɪᴍᴇ : {NF6({uptime})}",
-          "{NF6(【 4 / 16 】)} 📈 ᴄᴘᴜ ɴᴀᴍᴇ : {NF6({cpu:name})} ",
-          "{NF6(【 5 / 16 】)} 📈 ᴄᴘᴜ ᴄᴏʀᴇ : {NF6({cpu:cores})} ",
-          "{NF6(【 6 / 16 】)} 📈 {NF6({cpu:usage})} / 📈 {NF6({cpu:speed})} / 📈 {NF6({ram:usage})}",
-          "{NF6(【 7 / 16 】)} 📶 ᴘɪɴɢ ꜱᴇʀᴠᴇʀ : 📶 {NF6({ping})} ",
-          "{NF6(【 8 / 16 】)} 🌉 ᴄᴏᴜɴᴛʀʏ : {country} ",
-          "{NF6(【 9 / 16 】)} 🏞️ ᴛᴇᴍᴘ ɪɴ {city} : 🌡️ {NF6({temp:c})}  /  🌡️ {NF6({temp:f})} ",
-          "{NF6(【 10 / 16 】)} 🍃 ᴡɪɴᴅ ɪɴ {city} : 🍃 {NF6({wind:kph})} / 🍃 {NF6({wind:mph})} ",
-          "{NF6(【 11 / 16 】)} 🍃 ɢᴜꜱᴛ ᴏꜰ ᴡɪɴᴅ ɪɴ {city} : 🍃 {NF6({gust:kph})}  / 🍃 {NF6({gust:mph})} ",
-          "{NF6(【 12 / 16 】)} ☁️ ᴄʟᴏᴜᴅ ɪɴ {city} : ☁️ {NF6({cloud})} ",
-          "{NF6(【 13 / 16 】)} 🌞 ᴜᴠ ɪɴ {city} : 🌞 {uv}",
-          "{NF6(【 14 / 16 】)} 🦠 ᴘᴍ 2.5 ɪɴ {city} : 🦠 {NF6({pm2.5})}",
-          "{NF6(【 15 / 16 】)} 💧 ʜᴜᴍɪᴅɪᴛʏ ɪɴ {city} : 💧 {NF6({humidity})}",
-          "{NF6(【 16 / 16 】)} 🌌 ᴠɪꜱɪʙɪʟɪᴛʏ ɪɴ {city} : 🌌 {NF6({vis:km})} / 🌌 {NF6({vis:mi})}"
-      ],
-      "text-3": [
-          "4ʟᴇᴠʏ",
-          "{NF6(【 1 / 10 】)}  ᴀɴɢᴇʟ ᴏꜰ ᴅᴇᴀᴛʜ | 🌸 Rachel Gardner 🌸",
-          "{NF6(【 2 / 10 】)}  ᴀɴɢᴇʟ ᴏꜰ ᴅᴇᴀᴛʜ | 💖 Isaac Foster 💖",
-          "{NF6(【 3 / 10 】)}  ᴄʟᴀꜱꜱʀᴏᴏᴍ ᴏꜰ ᴛʜᴇ ᴇʟɪᴛᴇ | 🌸 ᴀʀɪꜱᴜ ꜱᴀᴋᴀʏᴀɴᴀɢɪ 🌸",
-          "{NF6(【 4 / 10 】)}  ᴄʟᴀꜱꜱʀᴏᴏᴍ ᴏꜰ ᴛʜᴇ ᴇʟɪᴛᴇ | 🌸 ꜱᴜᴢᴜɴᴇ ʜᴏʀɪᴋɪᴛᴀ 🌸",
-          "{NF6(【 5 / 10 】)}  ᴄʟᴀꜱꜱʀᴏᴏᴍ ᴏꜰ ᴛʜᴇ ᴇʟɪᴛᴇ | 🌸 ᴋᴇɪ ᴋᴀʀᴜɪᴢᴀᴡᴀ 🌸",
-          "{NF6(【 6 / 10 】)}  ᴄʟᴀꜱꜱʀᴏᴏᴍ ᴏꜰ ᴛʜᴇ ᴇʟɪᴛᴇ | 🌸 ʜɪʏᴏʀɪ ꜱʜɪɪɴᴀ 🌸",
-          "{NF6(【 7 / 10 】)}  ᴠᴀᴍᴘɪʀᴇ ᴘʀɪɴᴄᴇꜱꜱ | 🌸 ᴋᴏᴍᴀʀɪ 🌸",
-          "{NF6(【 8 / 10 】)}  ᴅᴀᴛᴇ ᴀ ʟɪᴠᴇ | 🌸 ᴋᴜʀᴜᴍɪ ᴛᴏᴋɪꜱᴀᴋɪ 🌸",
-          "{NF6(【 9 / 10 】)}  ᴅᴀᴛᴇ ᴀ ʟɪᴠᴇ | 🌸 ᴋᴏᴛᴏʀɪ ɪᴛꜱᴜᴋᴀ 🌸",
-          "{NF6(【 10 / 10 】)} ᴅᴀᴛᴇ ᴀ ʟɪᴠᴇ | 🌸 ʏᴏꜱʜɪɴᴏ 🌸"
-      ],
-      "bigimg": [
-          "https://i.ibb.co/M5tzMM3/waifu-anime.gif",
-          "https://i.ibb.co/zP7bWBJ/4c27b258a8d890eef59bc796597879a2.gif",
-          "https://i.ibb.co/6Yr1Fvf/105f916e610c74c84a35523cdd553b7c.gif",
-          "https://i.ibb.co/h1H2fvt/arisu-sakayanagi.gif",
-          "https://i.ibb.co/cg3pZs9/91e7abc05c237cbc7313b2d19d47d7e8.gif",
-          "https://i.ibb.co/XXXLks6/219127.gif",
-          "https://i.ibb.co/F0MTDFf/classroom-of-the-elite-hiyori-shiina.gif",
-          "https://i.ibb.co/M5tzMM3/waifu-anime.gif",
-          "https://i.ibb.co/0VnPpPk/6181267f9d923cbc5a83e66f39919dc5.gif",
-          "https://i.ibb.co/tQ8jYqB/3dd730224059b8d474f8db675fc87008.gif",
-          "https://i.ibb.co/cQsgcD3/dad43bfa09470e523042a46c2550b5b7.gif"
-      ],
-      "smallimg": [],
-      "button-1": [
-          {
-              "name": "M",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "MI",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "MIY",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "MIYA",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "MIYAK",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "MIYAKO",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "MIYAKO ",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "MIYAKO V",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "MIYAKO V1",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "O",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "OW",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "OWN",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "OWN BY 4",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "OWN BY 4l",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "OWN BY 4le",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "OWN BY 4lev",
-              "url": "https://discord.gg/aqt6thEVV7"
-          },
-          {
-              "name": "OWN BY 4levy",
-              "url": "https://discord.gg/aqt6thEVV7"
-          }
-      ],
-      "button-2": [
-          {
-              "name": "4levy 's Contact",
-              "url": "https://github.com/4levy"
-          }
-      ]
+      {
+        "name": "- Диаметр o/һ ;",
+        "url": "https://www.instagram.com/wz.sollyx"
+      },
+      {
+        "name": "` скучный # ;",
+        "url": "https://discord.com/invite/CDr8XXYAD5"
+      },
+      {
+        "name": "- JasenSexhod $ ;",
+        "url": "https://soundcloud.com/solly1402"
+      },
+      {
+        "name": "@1 - tag purs",
+        "url": "https://guns.lol/wz.sollyx"
+      },
+      {
+        "name": "- hard ; # hr",
+        "url": "https://www.savethechildren.org/us/where-we-work/africa"
+      },
+      {
+        "name": "/$/",
+        "url": "https://www.pinterest.com/solly1402"
+      }
+    ],
+    "button-2": []
   }
 }
