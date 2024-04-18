@@ -6,7 +6,7 @@
   "config": {
     "options": {
       "watch-url": ["https://www.youtube.com/watch?v=G7qhXHPeeGA"],
-      "timestamp": "{start}"
+      "timestamp": "{end:1719680400}"
     },
     "text-1": [
         "{NF4(「{hour:1} : {min:1}」 ♰ 「{th=date} / {th=month:1} / {en=year:2}」)}"
